@@ -1,0 +1,1 @@
+const int SUCCESS = 0;
