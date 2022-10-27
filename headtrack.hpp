@@ -1,5 +1,5 @@
-#ifndef HEADTRACK_H_
-#define HEADTRACK_H_
+#ifndef HEADTRACK_HPP_
+#define HEADTRACK_HPP_
 /**
  * @author Jack Farmer
  * @date 25/10/2022
@@ -17,4 +17,4 @@ namespace ht {
 }
 
 
-#endif
+#endif /* HEADTRACK_HPP_ */

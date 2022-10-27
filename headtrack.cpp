@@ -2,11 +2,12 @@
 #include <iostream>
 
 using namespace ht;
+using namespace std;
 
 void test() {
-    std::string s = "this is a test";
+    string s = "this is a test";
 }
 
 void runHeadpose() {
-    std::cout << "headpose!" << std::endl;
+    cout << "headpose!" << endl;
 }

@@ -7,7 +7,7 @@
 #include "constants.hpp"
 #include <iostream>
 
-int main() {
+int main(int argc, char *argv[]) {
     ht::test();
     ht::runHeadpose();
     return SUCCESS;
